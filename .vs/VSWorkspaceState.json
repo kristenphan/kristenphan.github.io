@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\markers",
+    "\\assets\\trump-3d",
+    "\\trump-hiro"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\trump-hiro\\index.html",
   "PreviewInSolutionExplorer": false
 }
