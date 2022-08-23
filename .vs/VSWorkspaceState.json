@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\fonts"
   ],
-  "SelectedNode": "\\C:\\Users\\kristen.phan\\Source\\Repos\\kristenphan.github.io",
+  "SelectedNode": "\\assets\\fonts\\Oredo-Regular.ttf",
   "PreviewInSolutionExplorer": false
 }
